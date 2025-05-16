@@ -19,6 +19,7 @@ private:
     int size;
 
     void minHeapify(int idx);
+    void swap(int& a, int& b);
 };
 
 #endif
